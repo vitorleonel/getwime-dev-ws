@@ -1,1 +1,1 @@
-# getwime-dev-ws
+# Wime | WS
